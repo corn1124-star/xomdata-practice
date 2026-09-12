@@ -11,5 +11,7 @@
   "practice/sql/easy/easy-avg-001/solution.sql": "f22a07297e5380ed0eac021481d553b638ac26b9beca99071d0b67f3f017d00f",
   "practice/sql/medium/medium-join-001/solution.sql": "3e4b6243656fed0736cb6f1bec34ccb9b0aa252da56babfae97e36cbea35e22f",
   "practice/sql/medium/medium-leftjoin-031/solution.sql": "3758270c34c0a98a6841083d97e37dc60018add1c9b8c9d4baa6d2e422c6646f",
-  "practice/sql/medium/medium-groupby-027/solution.sql": "506c338ccce1c6ce95c29c9f0d1189e3cc5a3235b4232ab990b8dd162fb5a54b"
+  "practice/sql/medium/medium-groupby-027/solution.sql": "506c338ccce1c6ce95c29c9f0d1189e3cc5a3235b4232ab990b8dd162fb5a54b",
+  "practice/python/medium/py-rotate-list/solution.py": "964b82e69fce92469630db8c901c50511eced869dcadb843de6259b0cfe47853",
+  "practice/python/medium/py-row-col-sums/solution.py": "33ac7db641c07a211f0394a5d445ba034eafa9d8fbd71310b21c3ea8891da2b5"
 }
