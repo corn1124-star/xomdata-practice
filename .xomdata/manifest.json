@@ -13,5 +13,22 @@
   "practice/sql/medium/medium-leftjoin-031/solution.sql": "3758270c34c0a98a6841083d97e37dc60018add1c9b8c9d4baa6d2e422c6646f",
   "practice/sql/medium/medium-groupby-027/solution.sql": "506c338ccce1c6ce95c29c9f0d1189e3cc5a3235b4232ab990b8dd162fb5a54b",
   "practice/python/medium/py-rotate-list/solution.py": "964b82e69fce92469630db8c901c50511eced869dcadb843de6259b0cfe47853",
-  "practice/python/medium/py-row-col-sums/solution.py": "33ac7db641c07a211f0394a5d445ba034eafa9d8fbd71310b21c3ea8891da2b5"
+  "practice/python/medium/py-row-col-sums/solution.py": "33ac7db641c07a211f0394a5d445ba034eafa9d8fbd71310b21c3ea8891da2b5",
+  "practice/python/easy/py-average/solution.py": "4d424fcbb862def90b5e6be21f77e472af1b0bee1b34639d22372e160dfc7e91",
+  "practice/python/easy/py-grade-letter/solution.py": "5635b65d9987d6140396dcc73307437b9a718787ecf6da8daced964cbcf82326",
+  "practice/python/easy/py-max-price/solution.py": "3124337fdfb82cb07114114eec843bf5f5e0476a291c12bc145a41bdc72c014f",
+  "practice/python/easy/py-rectangle-area/solution.py": "df2ac7f34154cf7418f463afe6d259afdf44537ee12efd8ce0c5df9e5ca4ee58",
+  "practice/python/easy/py-discount/solution.py": "8ab17b3f7c5dd55df4db14f5c3c3bbaa365c970fb705ed88d5a89a154db2fb88",
+  "practice/python/easy/py-initials/solution.py": "6f82aa94a9c22ffdea60fb1458d57d1feebd361310dd23c49a840707e8184974",
+  "practice/python/easy/py-word-count/solution.py": "f1ede8d529e84f6c53a0214aaa869e58ddb7c0d6b32b0b86cc9a1ead805f78ea",
+  "practice/sql/easy/easy-isnull-002/solution.sql": "9f6ab078479db036698f04574978853d87b69a5144faaa79fa1235701269924d",
+  "practice/sql/easy/easy-limit-001/solution.sql": "0bc9ec16cd28fbff4fa90450f9b91a3fc9081f0cbae6dcda9326b9be5bda695d",
+  "practice/sql/easy/easy-where-010/solution.sql": "8ee066ababf01836a5472808089d36127f18dbf97e11805ed7320bb2d6f0863c",
+  "practice/sql/easy/easy-select-005/solution.sql": "d9fb6d4756bb29a9b12e1b296970a9e961926df0c4652b710eee7b74e0a42539",
+  "practice/python/easy/py-reverse-code/solution.py": "1f4b61dc976113b525bfa599e11b8b8ac597b64d278ffa620b4b829d2e449ae4",
+  "practice/python/easy/py-most-frequent/solution.py": "c08952906f08660583acc516967acf3874231d06e667e2198ac154f5074b0bdf",
+  "practice/python/easy/py-merge-alternate/solution.py": "496c0df7c01090d13ddfe5ad10d5b8260fdd78f1221902d11cc178f4e014c94a",
+  "practice/python/easy/py-sum-positive/solution.py": "c16e0dde0e179a0ee22fab48ecf7a799ee9aa6a27fb83fc864b2c5c35a0633b8",
+  "practice/python/easy/py-palindrome/solution.py": "7153d0dd1f4602ed3da493149314e5e4aa5944d3d8aede174543918b4c9b2e12",
+  "practice/python/easy/py-number-sign/solution.py": "b364ba58e03f4336c09664d456e7cfda0214e9edc6dcaacf0429b01469aa7d92"
 }
