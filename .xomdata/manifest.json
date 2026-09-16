@@ -30,5 +30,16 @@
   "practice/python/easy/py-merge-alternate/solution.py": "496c0df7c01090d13ddfe5ad10d5b8260fdd78f1221902d11cc178f4e014c94a",
   "practice/python/easy/py-sum-positive/solution.py": "c16e0dde0e179a0ee22fab48ecf7a799ee9aa6a27fb83fc864b2c5c35a0633b8",
   "practice/python/easy/py-palindrome/solution.py": "7153d0dd1f4602ed3da493149314e5e4aa5944d3d8aede174543918b4c9b2e12",
-  "practice/python/easy/py-number-sign/solution.py": "b364ba58e03f4336c09664d456e7cfda0214e9edc6dcaacf0429b01469aa7d92"
+  "practice/python/easy/py-number-sign/solution.py": "b364ba58e03f4336c09664d456e7cfda0214e9edc6dcaacf0429b01469aa7d92",
+  "practice/sql/easy/easy-limit-004/solution.sql": "f2e19c174ea40b99ae0e0d45023cb01f45b4167f65928ed099512e58389aa5a8",
+  "practice/sql/easy/easy-sum-003/solution.sql": "1b1e6f2e82aa63b121d83bbe161f6a3c763b36d8a5611dc3c3de27607887c727",
+  "practice/sql/easy/easy-max-001/solution.sql": "0ab32ba45abe60d68cb60f9ed48892258389bdff8f6b128f7f524b9fa25f3d1a",
+  "practice/sql/easy/easy-where-002/solution.sql": "f6d8368a2fd89f081d86f50cd4abdb9c49799a3607f180639c29657397019390",
+  "practice/sql/easy/easy-minmax-001/solution.sql": "9ada188f07713c5859f00884cd6715895973982002950e50eba4360adb40785e",
+  "practice/sql/easy/easy-sum-004/solution.sql": "66adfa7580c2b06e0cb67273422b6d8d4362c8016648cee766db8d5a156873bb",
+  "practice/sql/easy/easy-where-003/solution.sql": "586fed18127a19e0c2ee6c4985d1a5e4e9f237a5153b14f9ea39368e44e45849",
+  "practice/python/easy/py-vowels/solution.py": "5b7a168307f9b578395a0aa64bc5a105cf051e5f446585b80d5af05d7cc74b42",
+  "practice/python/easy/py-mask-phone/solution.py": "b03fff4802e1331eb073202437a02ad28cafd3b5a3feefc1d656e293ceede0d1",
+  "practice/sql/easy/easy-where-008/solution.sql": "6dec83ab1a56ef5a8176382dadcd12c0713692dabd9403d63d5877bf4768489e",
+  "practice/sql/easy/easy-count-002/solution.sql": "a17401ccd4f4f0f8a2503c649e7d54c26548d6005feb987c36b34918031d7378"
 }
